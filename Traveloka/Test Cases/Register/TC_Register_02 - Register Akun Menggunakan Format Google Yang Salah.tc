@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Login</name>
+   <name>TC_Register_02 - Register Akun Menggunakan Format Google Yang Salah</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>dc56fa8c-564d-40dd-a38b-e50df9863409</testCaseGuid>
+   <testCaseGuid>28796350-c427-4df1-a5f7-a47d3ec9485f</testCaseGuid>
 </TestCaseEntity>

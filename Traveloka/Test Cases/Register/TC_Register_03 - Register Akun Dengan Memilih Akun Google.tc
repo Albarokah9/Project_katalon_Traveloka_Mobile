@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Register_03 - Register Akun Dengan Memilih Akun Google</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5d1f9875-aaa5-4c21-885c-3d6852ee2a93</testCaseGuid>
+</TestCaseEntity>

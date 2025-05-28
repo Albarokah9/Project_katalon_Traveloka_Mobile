@@ -29,11 +29,18 @@ Mobile.tap(findTestObject('SetupLogin/BahasaIndonesia'), 0)
 
 Mobile.tap(findTestObject('SetupLogin/Lanjutkan'), 0)
 
+//Mobile.tap(findTestObject('Register/Button X'), 0)
+
 Mobile.tap(findTestObject('SetupLogin/GabungkeTraveloka'), 0)
 
-//Mobile.tap(findTestObject('SetupLogin/Google'), 0)
-//
-//Mobile.tap(findTestObject('SetupLogin/Eizy'), 0)
-//
-//Mobile.tap(findTestObject('SetupLogin/Next'), 0)
+Mobile.setEncryptedText(findTestObject('Login/Masukkan email atau no. handphone-mu'), 'dp9NLWBqQDV2FWwaibZXceNPjK9JKoGH0xsaunxY04Y=', 
+    0)
+
+Mobile.setEncryptedText(findTestObject('Login/Masukkan password yang aman'), 'aRkovEro43qJLpohhV50kK1eOBFRsUms', 0)
+
+Mobile.tap(findTestObject('Login/Masuk'), 0)
+
+Mobile.verifyElementVisible(findTestObject('Login/Verifikasikan Akun Anda'), 0)
+
+Mobile.verifyElementText(findTestObject('Login/Verifikasikan Akun Anda'), 'Verifikasikan Akun Anda')
 

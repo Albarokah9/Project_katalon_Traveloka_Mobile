@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Login_01 - Melakukan login dengan email yang sudah terdaftar</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>678b4f23-142a-4175-9cd5-98acc2398189</testCaseGuid>
+</TestCaseEntity>

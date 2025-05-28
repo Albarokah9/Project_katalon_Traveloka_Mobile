@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Login_03 - Melakukan login dengan memilih akun google</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cc189706-5979-4a23-a834-6a1e055cdbaa</testCaseGuid>
+</TestCaseEntity>

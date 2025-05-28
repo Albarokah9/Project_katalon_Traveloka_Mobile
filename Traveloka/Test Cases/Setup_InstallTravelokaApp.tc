@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Setup_InstallTravelokaApp</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5b077994-320a-4ddf-b135-6bc8f38dbfc5</testCaseGuid>
+</TestCaseEntity>

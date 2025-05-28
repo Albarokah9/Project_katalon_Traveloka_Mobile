@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Login_02 - Melakukan login dengan format email yang salah</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>14df441a-5872-4960-91c9-8f92a2c6c45f</testCaseGuid>
+</TestCaseEntity>
