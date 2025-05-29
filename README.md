@@ -14,6 +14,9 @@ Automation testing untuk aplikasi mobile Traveloka menggunakan Katalon Studio.
 - Search Flight
 - Search Hotel
 
+## Test Case & Report
+https://drive.google.com/drive/folders/1C-Fe5ANwu2sWzvJqqcipF8PPPLDnTIFr?usp=sharing
+
 ## Setup
 ```bash
 # Import project ke Katalon Studio
