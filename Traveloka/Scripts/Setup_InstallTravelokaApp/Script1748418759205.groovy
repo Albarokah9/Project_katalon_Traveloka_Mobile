@@ -56,23 +56,23 @@ try {
 	process.waitFor()
 	
 	if (process.exitValue() == 0) {
-		KeywordUtil.logInfo("✅ Split APKs berhasil diinstall!")
+		KeywordUtil.logInfo("Split APKs berhasil diinstall!")
 		KeywordUtil.logInfo("Output: ${output.toString()}")
 	} else {
 		String errorMsg = error.toString() ?: output.toString()
-		KeywordUtil.logError("❌ Gagal install split APKs: ${errorMsg}")
+		KeywordUtil.logError("Gagal install split APKs: ${errorMsg}")
 		throw new Exception("Install gagal: ${errorMsg}")
 	}
 	
 } catch (Exception e) {
-	KeywordUtil.logError("❌ Error saat install: ${e.getMessage()}")
+	KeywordUtil.logError("Error saat install: ${e.getMessage()}")
 	throw e
 }
 
 // 3. Start aplikasi untuk memastikan berjalan
-KeywordUtil.logInfo("🚀 Memulai aplikasi Traveloka...")
+KeywordUtil.logInfo("Memulai aplikasi Traveloka...")
 Mobile.delay(3)
 Mobile.startApplication('com.traveloka.android', false)
 Mobile.delay(5)
 
-KeywordUtil.logInfo("✅ Instalasi dan setup Traveloka selesai!")
+KeywordUtil.logInfo("Instalasi dan setup Traveloka selesai!")

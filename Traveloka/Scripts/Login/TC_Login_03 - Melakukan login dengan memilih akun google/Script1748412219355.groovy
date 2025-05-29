@@ -29,7 +29,6 @@ Mobile.tap(findTestObject('SetupLogin/BahasaIndonesia'), 0)
 
 Mobile.tap(findTestObject('SetupLogin/Lanjutkan'), 0)
 
-//Mobile.tap(findTestObject('Register/Button X'), 0)
 Mobile.tap(findTestObject('SetupLogin/GabungkeTraveloka'), 0)
 
 Mobile.tap(findTestObject('SetupLogin/Google'), 0)
@@ -37,8 +36,6 @@ Mobile.tap(findTestObject('SetupLogin/Google'), 0)
 Mobile.tap(findTestObject('Login/Projecttraveloka20'), 0)
 
 Mobile.tap(findTestObject('Login/Next'), 0)
-
-//Mobile.tap(findTestObject('Login/OK'), 0)
 
 Mobile.tap(findTestObject('Login/Profile'), 0)
 

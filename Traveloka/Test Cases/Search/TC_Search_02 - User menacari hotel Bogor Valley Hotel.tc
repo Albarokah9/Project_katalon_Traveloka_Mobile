@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Search_02 - User menacari hotel Bogor Valley Hotel</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>49454478-3fac-431f-9042-9b5f53cb769b</testCaseGuid>
+</TestCaseEntity>

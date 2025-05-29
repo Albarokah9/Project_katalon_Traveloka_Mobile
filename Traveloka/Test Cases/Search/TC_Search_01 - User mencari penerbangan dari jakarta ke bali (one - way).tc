@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Search_01 - User mencari penerbangan dari jakarta ke bali (one - way)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1549bead-b85b-48d1-bd9f-ad2b7f6934b4</testCaseGuid>
+</TestCaseEntity>
