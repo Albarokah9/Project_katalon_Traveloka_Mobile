@@ -4,7 +4,7 @@ Automation testing untuk aplikasi mobile Traveloka menggunakan Katalon Studio.
 
 ## Tech Stack
 - **Framework**: Katalon Studio
-- **Platform**: Mobile (Android/iOS)
+- **Platform**: Mobile (Android)
 - **App**: Traveloka Mobile (Application ID)
 - **Installation**: Custom split APK script
 
